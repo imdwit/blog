@@ -17,7 +17,7 @@ title: Some words I wrote
 email: dwightdoane@me.com
 description: >- # this means to ignore newlines until "baseurl:"
   I like JavaScript and Elm.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://dwit.us" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamdwit
 github_username:  imdwit
